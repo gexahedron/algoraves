@@ -1,0 +1,1 @@
+Thanks goes to co34pt for his nicest [tutorial](https://theseanco.github.io/howto_co34pt_liveCode/), on how to livecode in supercollider, code for this algorave was partly copied from tutorial.
